@@ -1,0 +1,35 @@
+h1 {
+    color:black;
+}
+p,h2{ 
+    text-align: center;
+}
+.header{
+ background-color: sandybrown;
+  display:flex;
+  justify-content: space-between;
+}
+
+
+.grid
+{
+ display:flex;
+ flex-wrap: wrap;
+ justify-content: space-evenly;
+ 
+}
+
+.footer
+{
+    display: flex;
+    justify-content: flex-end;
+}
+.item{
+    border: solid;
+
+}
+
+item img{
+    border: solid;
+    border-radius:100;
+}
